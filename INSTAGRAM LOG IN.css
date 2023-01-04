@@ -1,0 +1,93 @@
+body{
+	background-color: #fafafa;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    font-family: Roboto;
+}
+
+button{
+    width: 200px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:deepskyblue;
+    color: whitesmoke;
+    border: none;
+}
+
+.wrapper .header .top{
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 230px;
+
+}
+
+p{
+    background: #fff;
+    border:1px solid #e6e6e6 ;
+    border-radius: 1px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 230px;
+
+}
+.wrapper .header .form .input_field{
+    margin-bottom: 5px;
+
+}
+ 
+.wrapper .header .form .input_field .input{
+    width: 100%;
+    background: #fafafa;
+    border: 1px solid #efefef;
+    font-size: 12px;
+    border-radius: 3px;
+    color: #262626;
+    padding: 10px;
+}
+
+.wrapper .header .form .input_field .input:focus{
+    border:1px solid #b2b2b2;
+}
+.wrapper .header .form .form .btn{
+    margin: 10px 0;
+    background: #3897f0;
+    border: 1px solid #3897f0;
+    border-radius: 3px;
+    padding: 5px;
+}
+ 
+ .wrapper .header .form .button a{
+    color: white;
+    display: block;
+    background-color:deepskyblue ;
+    border-radius: 9px;
+    width: 90% ;
+    font-size: 20px;
+ }
+ .wrapper .header .or{
+    display: flex;
+    height: 15px;
+    margin: 15px  0  20px;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ .wrapper .header .or .line{
+    width: 105px;
+    height: 2px;
+    background: #efefef;
+    color: #999;
+    font-size: 2px;
+ }
+
+  
+
+
+.
